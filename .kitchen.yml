@@ -22,8 +22,3 @@ suites:
       inspec_tests:
         - test/recipes
     attributes:
-      aws:
-        - [{
-        key: 'AKIAIKTHMFPW2AHWMOXA',
-        secret: '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'
-      }]
