@@ -1,6 +1,6 @@
 name 'webserver-cookbook'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Alan Reynoso VEga'
+maintainer_email 'alan@paradojo.com'
 license 'all_rights'
 description 'Installs/Configures webserver-cookbook'
 long_description 'Installs/Configures webserver-cookbook'
