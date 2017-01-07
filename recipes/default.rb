@@ -16,3 +16,7 @@ package 'php70w-opcache'
 package 'php70w-mysql'
 package 'mariadb'
 package 'mariadb-libs'
+
+service 'nginx' do
+	action :start
+end
